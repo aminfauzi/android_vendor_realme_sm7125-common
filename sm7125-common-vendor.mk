@@ -1281,5 +1281,4 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service \
     vendor.qti.hardware.servicetracker@1.2-service \
     manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.qti.media.c2@1.0-service \
-    manifest_dax_dolby
+    vendor.qti.media.c2@1.0-service
